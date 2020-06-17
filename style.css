@@ -13,6 +13,28 @@ img{
     margin: auto;
 }
 
+.wolf{
+     height: 500px;
+    width: 100%;
+    display: block;
+    background-color: darkslategray;
+}
+
 p{
     font-size: 32px;
+    height: 20%;
+    width: 50%;
+    background-color: gray;
+    color: ghostwhite;
+    text-align: center;
+    margin-top: 200px;
+    padding-top: 50px;
+}
+
+.pack{
+    float: left;
+}
+
+.heir{
+    float: right;
 }
