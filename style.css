@@ -14,9 +14,8 @@ img{
 }
 
 .wolf{
-     height: 500px;
+    height: 300px;
     width: 100%;
-    display: block;
     background-color: darkslategray;
 }
 
@@ -27,8 +26,8 @@ p{
     background-color: gray;
     color: ghostwhite;
     text-align: center;
-    margin-top: 200px;
-    padding-top: 50px;
+    margin-top: 100px;
+    padding-top: 30px;
 }
 
 .pack{
