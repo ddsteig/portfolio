@@ -5,6 +5,7 @@ h1{
     text-align: center;
     text-transform: uppercase;
     padding-top: 50px;
+    font-family: 'Indie Flower', cursive;
 }
 
 img{
@@ -30,6 +31,7 @@ p{
     text-align: center;
     margin-top: 100px;
     padding-top: 30px;
+    font-family: 'Metal Mania', cursive;
 }
 
 .pack{
@@ -38,4 +40,9 @@ p{
 
 .heir{
     float: right;
+}
+
+.footer {
+    font-family: 'Lobster', cursive;
+    text-align: center;
 }
