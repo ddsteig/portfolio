@@ -23,7 +23,6 @@ h1{
 }
 .bio{
     width: 50%;
-    margin: 20px;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
 }
 
@@ -37,8 +36,6 @@ body{
 .container {
     background: gray;
     padding: 20px;
-    margin: 50px;
-    justify-content: center;
     box-shadow: 5px 5px 6px rgb(0, 0, 0, 0.6);
 }
 
