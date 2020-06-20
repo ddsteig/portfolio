@@ -8,7 +8,7 @@ h1{
 }
 
 .display-4{
-    width: 50%;
+    width: 75%;
     height: 50px;
     margin: auto;
     font-size: 40px;
@@ -23,6 +23,7 @@ h1{
 }
 .bio{
     width: 50%;
+    margin-left: 25%;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
 }
 
@@ -36,6 +37,8 @@ body{
 .container {
     background: gray;
     padding: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
     box-shadow: 5px 5px 6px rgb(0, 0, 0, 0.6);
 }
 
