@@ -28,6 +28,7 @@ h1{
 }
 
 body{
+    position: relative;
     background: darkslategrey;
 }
 
@@ -45,4 +46,12 @@ body{
 .card{
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.8);
 
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    color: ghostwhite;
+    background-color: darkcyan;
 }
