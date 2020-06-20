@@ -1,4 +1,12 @@
+body{
+    background: darkslategrey;
+}
+
+#navigation{
+    background-color: darkcyan;
+}
 .container {
     background: gray;
-    padding-bottom: 20px;
+    padding: 20px;
+ 
 }
