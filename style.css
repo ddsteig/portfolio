@@ -73,8 +73,15 @@ body{
 }
 
 #think{
-    margin-top: 5%;
+    margin: 5%;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.8);
+}
+
+.btn-primary{
+    margin-left: 45%;
+    border-color: darkcyan;
+    background: #676599;
+    
 }
 
 .footer{
