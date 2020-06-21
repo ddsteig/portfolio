@@ -12,7 +12,8 @@ h2{
     background: #676599;
     text-align: center;
     margin-left: 15%;
-    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
 }
 
@@ -39,8 +40,10 @@ h5{
 }
 
 .jumbotron{
-    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
+    margin: 0;
     font-weight: bold;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
+    
 }
 
 .lead{
@@ -60,6 +63,7 @@ h5{
     padding-right: 15%;
     margin-top: 5%;
     margin-bottom: 10%;
+    color: ghostwhite;
     font-weight: bolder;
 }
 
@@ -84,6 +88,7 @@ body{
 }
 
 #think{
+    width:90%;
     margin: 5%;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.8);
 }
