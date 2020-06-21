@@ -7,12 +7,20 @@ h1{
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
 }
 
+h2{
+    width: 75%;
+    background: #676599;
+    text-align: center;
+    margin-left: 15%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
+}
+
 .display-4{
     width: 75%;
     height: 50px;
     margin: auto;
     font-size: 40px;
-    font
     padding-top: 0;
     margin-bottom: 10px;
     background-color: darkslategray;
@@ -21,6 +29,7 @@ h1{
 
 .jumbotron{
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
+    font-weight: bold;
 }
 
 .lead{
@@ -33,6 +42,13 @@ h1{
     margin-top: 5%;
     margin-bottom: 5%;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
+}
+
+.bio2{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 10%;
+    font-weight: bolder;
 }
 
 body{
