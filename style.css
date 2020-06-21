@@ -16,6 +16,17 @@ h2{
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
 }
 
+h5{
+    width: 75%;
+    background: darkslategray;
+    color: ghostwhite;
+    text-align: center;
+    padding: 1%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.6);
+}
+
 .display-4{
     width: 75%;
     height: 50px;
@@ -82,6 +93,11 @@ body{
     border-color: darkcyan;
     background: #676599;
     
+}
+
+.icon{
+    margin-left:40%;
+    font-size:36px;
 }
 
 .footer{
