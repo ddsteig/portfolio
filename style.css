@@ -78,7 +78,7 @@ body{
     background: gray;
     padding: 20px;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
     box-shadow: 5px 5px 6px rgb(0, 0, 0, 0.6);
 }
 
@@ -93,7 +93,7 @@ body{
 }
 
 .btn-primary{
-    margin-left: 45%;
+    text-align: center;
     border-color: darkcyan;
     background: #676599;
     
@@ -105,11 +105,14 @@ body{
 }
 
 .footer{
+    position: fixed;
     width: 100%;
     text-align: center;
     padding-top: 15px;
     color: ghostwhite;
     background-color: darkcyan;
+    bottom: 0;
+    
 }
 
 @media only screen and (max-width: 950px) {
