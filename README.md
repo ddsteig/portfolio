@@ -2,6 +2,7 @@
 
 <hr>
 This personal site was created with mobile responsiveness in mind.
+<br>
 It uses:
   <ul>
   <li>Responsive Images</li>
