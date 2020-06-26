@@ -1,6 +1,5 @@
-Mobile Responsive Site
-
 ##Mobile Responsive Site;
+
 <hr>
 This personal site was created with mobile responsiveness in mind.
 It uses:
