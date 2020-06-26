@@ -6,7 +6,7 @@ It uses:
   <ul>
   <li>Responsive Images</li>
   <li>Rows & Columns</li>
-  <li>Media Queries<li>
+  <li>Media Queries</li>
   </ul>
   
   <hr>
