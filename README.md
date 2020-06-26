@@ -12,4 +12,5 @@ It uses:
   <hr>
   
   <h2>Other Info</h2>
-  It was built using Bootstraps templates, utilizing their css and js libraries as well as additional css and other code to utilize the viewport and adjust to different size screens.
+  It was built using Bootstraps templates, utilizing their css and js libraries.
+  It also has additional css and html to utilize the viewport and adjust to different size screens.
