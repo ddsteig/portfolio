@@ -35,6 +35,7 @@ body {
 .active {
   font-weight: bold;
 }
+
 /* Container placed around jumbotron on index, card-deck on portfolio, and form on contact */
 .container {
   border-radius: 5px;
@@ -70,7 +71,7 @@ body {
   font-size: 40px;
   padding-top: 0;
   margin-bottom: 10px;
-  background-color: darkslategray;
+  background-color:  #212529;
   color: ghostwhite;
 }
 
@@ -98,7 +99,7 @@ body {
 h5 {
   border-radius: 5px;
   width: 75%;
-  background: darkslategray;
+  background:  #212529;
   color: ghostwhite;
   text-align: center;
   padding: 1%;
