@@ -16,7 +16,7 @@
 </head>
 
 <body>
-<!-- Nav bar using semantic nav tag -->
+    <!-- Nav bar using semantic nav tag -->
     <nav id="navigation" class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand">Danny Steiger <i class="fa fa-anchor" style="font-size:24px"></i></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
@@ -32,35 +32,37 @@
             </div>
         </div>
     </nav>
-<!-- Header semantic tag -->
+    <!-- Header semantic tag -->
     <header>
         <h1>Contact</h1>
     </header>
-<!-- Space img div -->
+    <!-- Space img div -->
     <div>
         <img id="space" src="assets/images/space5.jpg" class="img-fluid rounded mx-auto d-block" alt="Space Picture5">
     </div>
-<!-- Main tag used for contact form -->
+    <!-- Main tag used for contact form -->
     <main class="container">
-        <form>
+        <form action="mailto:dannydsteiger@gmail.com" method="post" enctype="text/plain">
             <div class="form-group">
-                <label for="exampleFormControlInput1">Name</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name">
-            </div>
-            <div class="form-group">
-                <label for="exampleFormControlInput1">Email Address</label>
-                <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                <label for="name">Name</label>
+                <input name="Name" type="text" class="form-control" id="name" placeholder="Name" />
             </div>
             <div class="form-group">
-                <label for="exampleFormControlTextarea1">Comments</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                <label for="email">Email Address</label>
+                <input name="Email" type="text" class="form-control" id="email" placeholder="name@example.com" />
             </div>
+            <div class="form-group">
+                <label for="comment">Comments</label>
+                <textarea name="Comments" type="text" class="form-control" id="comment" rows="3"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary"><a href="contact.html"></a>Submit</button>
+
+            <button type="submit" class="btn btn-primary">
+                Submit
+            </button>
         </form>
     </main>
 
-<!-- Sticky footer using footer semantic tag -->
+    <!-- Sticky footer using footer semantic tag -->
     <footer class="footer">
         <p>© 2020 - Site Built By Danny Steiger.
         </p>
